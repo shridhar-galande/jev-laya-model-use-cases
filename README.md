@@ -47,8 +47,8 @@ These notebooks are educational examples, not production-ready safety controls. 
 
 | Notebook | Description |
 | --- | --- |
-| [jev-laya-use-cases.ipynb](jev-laya-use-cases.ipynb) | Business and operational examples using Jev and Laya: support triage, moderation, screening, review checks, sentiment, lead qualification, bias checks, security logs, medical and legal intake, urgency, and anomaly detection. |
-| [jev-ai-security-use-cases.ipynb](jev-ai-security-use-cases.ipynb) | Jev-focused AI security examples covering prompt injection, sensitive data, agent tool-call review, security operations, and AIOps. |
+| [jev-laya-model-use-cases.ipynb](jev-laya-use-cases.ipynb) | Business and operational examples using Jev and Laya: support triage, moderation, screening, review checks, sentiment, lead qualification, bias checks, security logs, medical and legal intake, urgency, and anomaly detection. |
+| [jev-model-ai-security-use-cases.ipynb](jev-ai-security-use-cases.ipynb) | Jev-focused AI security examples covering prompt injection, sensitive data, agent tool-call review, security operations, and AIOps. |
 
 ## Requirements
 
