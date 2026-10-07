@@ -11,3 +11,4 @@ venv/
 .env
 .env.*
 !.env.example
+jev-laya-use-cases.ipynb
